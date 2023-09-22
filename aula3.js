@@ -13,7 +13,7 @@ console.log(nome);
  
 
 //git status 
-//gite add
+//gite add .
 //git commit -m "Primeiro Commit"
 //git status
 //git push origin_branch
